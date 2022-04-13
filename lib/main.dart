@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
                   Text('Flutter Tabs Demo', style: TextStyle(color: Colors.white),),
                   const CircleAvatar(
                     foregroundImage: AssetImage(
-                        'assets/images/competition2.png'),
+                        'assets/images/competition3.png'),
                     backgroundColor:
                     Colors.white, //Color(0xFF05FFB4),
                     radius: 30,
